@@ -21,16 +21,30 @@ p{
 div{
     background-color: white;
     border-style: solid;
+    box-shadow: 8px 8px 5px;
+}
+section{
+    width: 300px;
+
+    
 }
 img{
    width: 300px;
    height: 200px; 
    border-radius: 35%;
    border-style:solid
+
 }
 body{
-    background-color:rgba(170, 243, 237, 0.795)
+    background-color:rgba(170, 233, 228, 0.795)
 }
 footer{
     text-align: center;
+}
+.shadowbox{
+    width: 20em 50em;
+    border: 2px solid;
+    text-align: center;
+    box-shadow: 8px 8px 5px;
+    background-color: rgba(107, 238, 220, 0.438);
 }
