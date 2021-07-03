@@ -1,28 +1,25 @@
 h1{
-    color: black;
+    color: rgb(255, 255, 255);
     text-align: center;
     text-transform: capitalize;
-    text-shadow: 2px 1px 0px black;
+    text-shadow: 2px 2px 5px #000000;
     font-size: 4rem;
     font-variant-caps: normal;
 }
 h2{
-    color:black;
+    color:rgb(255, 255, 255);
     text-align: center;
     text-decoration-line: underline;
 }
 h3{
     text-align: center;
     text-decoration-line: underline;
+    color: white;
 }
 p{
     text-align: center;
 }
-div{
-    background-color: white;
-    border-style: solid;
-    box-shadow: 8px 8px 5px;
-}
+
 section{
     width: 300px;
 
@@ -36,10 +33,13 @@ img{
 
 }
 body{
-    background-color:rgba(170, 233, 228, 0.795)
+    background-color:rgba(170, 233, 228, 0.795);
+    background-image:url(lac2.jpg);
+
 }
 footer{
     text-align: center;
+    color: white;
 }
 .shadowbox{
     width: 20em 50em;
