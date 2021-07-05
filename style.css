@@ -53,13 +53,13 @@ body {
     background-color: rgba(107, 238, 220, 0.438);
 }
 
-h2.Mehdi {
+.Mehdi {
     text-align: right;
     margin-right: 150px;
     margin-top: -50px;
 }
 
-h2.Iliess {
+.Iliess {
     text-align: left;
     margin-top: 10px;
     margin-left: 170px;
