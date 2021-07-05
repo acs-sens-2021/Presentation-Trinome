@@ -4,17 +4,24 @@ h1{
     text-transform: capitalize;
     text-shadow: 2px 2px 5px #000000;
     font-size: 4rem;
-    font-variant-caps: normal;
+    text-decoration-line: underline;
+    font-style: italic;
 }
 h2{
     color:rgb(255, 255, 255);
     text-align: center;
-    text-decoration-line: underline;
 }
 h3{
     text-align: center;
-    text-decoration-line: underline;
     color: white;
+    font-size: 1.6rem;
+    text-decoration-line: underline;
+    font-style: italic;
+}
+h4{
+    text-align: center;
+    color: white;
+    font-size: 1.3rem;
 }
 p{
     text-align: center;
@@ -28,7 +35,7 @@ img{
    border-style:solid;
 }
 body{
-    background-image:url(Montagne.jpg);
+    background-image:url(vert2.jpg);
 
 }
 .shadowbox{
@@ -58,10 +65,16 @@ footer.Contacts{
     text-align: left;
     margin-left: 10px;
     margin-bottom: -20px;
+    color: white;
 }
 footer.Mentions{
     text-align: right;
     margin-right: 10px;
+    color: white;
+}
+a{
+    color: rgb(190, 3, 3);
+    font-size: 1.1rem;
 }
 div.Lien{
     text-align: center;
